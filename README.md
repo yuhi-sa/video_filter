@@ -1,2 +1,2 @@
 # video_filter
-Opencvでカメラ画像を取得．取得した画像に対してフィルタをかける．
+[Opencv](https://opencv.org/)でカメラ画像を取得．取得した画像に対してフィルタをかける．
